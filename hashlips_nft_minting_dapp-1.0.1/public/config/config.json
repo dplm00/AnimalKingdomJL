@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3D153fba275C13d12d69401230AB7CA85B4d9E6d",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x3d153fba275c13d12d69401230ab7ca85b4d9e6d",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "AnimalKingdomJL",
+  "SYMBOL": "AKJ",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/animalkingdonj",
+  "SHOW_BACKGROUND": true
+}
